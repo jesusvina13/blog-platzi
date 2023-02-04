@@ -1,7 +1,0 @@
-se inicia a contar un gran historia
-
-obtuvo su ingenieria en la UNEFA
-
-cambie este documento para ver si el reset head funciona
-
-se agrego un cambio para luego hacer un merge
